@@ -1,4 +1,4 @@
-Versión v2 del fichero README
+#Hello World
 
 Pasos para poder ejecutar el programa:
 
